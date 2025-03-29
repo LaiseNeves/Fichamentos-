@@ -1,9 +1,10 @@
 # 📚 Fichamentos-
-🦉 Esse repositório reúne trechos de livros lidos em meus estudos. 
+Esse repositório reúne trechos de livros lidos em meus estudos. 
 
 📌Observações
 Os fichamentos podem conter minha interpretação pessoal dos livros.
 Nem todos os fichamentos são detalhados, alguns podem ser apenas notas rápidas.
+
 
 📝Lista de Livros Fichados:
 1 - Arquitetura Limpa 
@@ -17,4 +18,4 @@ Este repositório é pessoal, mas se você quiser discutir ou sugerir algo sobre
 
 
 
-🗃️🗂️📁📋🗄️🗳️📜📓📔📒📕📗📘📙📚📖✏️📝📍📌📜📃📄📑🦉🐙
+
