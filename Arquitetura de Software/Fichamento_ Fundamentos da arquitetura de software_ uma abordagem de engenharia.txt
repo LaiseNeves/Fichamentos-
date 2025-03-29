@@ -1,0 +1,56 @@
+﻿Fichamento
+
+
+
+
+Identificação da Obra
+	Livro
+	
+
+	Autor(a)
+	
+
+	Ano Leitura
+	
+
+	Descrição
+	
+
+	
+
+
+
+
+
+Introdução: 
+A função do arquiteto de software incorpora uma enorme quantidade e domínio de responsabilidade que continua a se expandir. [...]  devido aos novos estilos de arquitetura que aproveitam uma faixa maior de capacidades (como microsserviços), a função do arquiteto de software foi ampliada. [...] Porém, neste livro reconhecemos a natureza dinâmica inerente da arquitetura de software, inclusive a definição em si.
+
+
+Os arquitetos de software devem tomar decisões dentro desse ecossistema em constante mudança.
+
+
+Ao estudar arquitetura, os leitores devem ter em mente que, como nas artes, ela só pode ser compreendida no contexto. Muitas decisões que os arquitetos tomaram foram baseadas nas realidades do ambiente em que se encontravam. 
+
+
+todas as arquiteturas são um produto de seu contexto.
+
+
+
+
+Definindo Arquitetura de Software:
+Alguns arquitetos se referem a ela como o blueprint do sistema, já outros a definem como roadmap para desenvolver um sistema.
+
+
+O conhecimento das características da arquitetura, das decisões da arquitetura e dos princípios do design também é necessário para entender bem a arquitetura do sistema.
+
+
+
+
+
+
+
+
+ 
+
+
+NEAL, Richards, Mark, F. Fundamentos da arquitetura de software: uma abordagem de engenharia. Rio de Janeiro: Editora Alta Books, 2024. E-book. p.12. ISBN 9788550819754. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/. Acesso em: 28 mar. 2025.
