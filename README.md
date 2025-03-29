@@ -9,7 +9,9 @@ Nem todos os fichamentos são detalhados, alguns podem ser apenas notas rápidas
 
 📝Lista de Livros Fichados:
 1 - Arquitetura Limpa 
+
 2 - Engenharia de Software 
+
 3 - Entendendo Algoritimos de forma Ilustrada
 
 
