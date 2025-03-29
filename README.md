@@ -2,9 +2,7 @@
 Esse repositório reúne trechos de livros lidos em meus estudos. 
 Também falo sobre o livro, pontos que achei interessante, que gostei etc. 
 
-📌Observações
-
-Os fichamentos podem conter minha interpretação pessoal dos livros.
+📌Observações: Os fichamentos podem conter minha interpretação pessoal dos livros.
 Nem todos os fichamentos são detalhados, alguns podem ser apenas notas rápidas.
 
 
@@ -17,9 +15,7 @@ Nem todos os fichamentos são detalhados, alguns podem ser apenas notas rápidas
 3 - Entendendo Algoritimos de forma Ilustrada
 
 
-✍️ Contribuição
-
-Este repositório é pessoal, mas se você quiser discutir ou sugerir algo sobre os livros, fique à vontade para abrir uma issue!
+✍️ Contribuição: Este repositório é pessoal, mas se você quiser discutir ou sugerir algo sobre os livros, fique à vontade para abrir uma issue!
 
 
 
