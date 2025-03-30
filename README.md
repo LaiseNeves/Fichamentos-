@@ -1,5 +1,5 @@
 # 📚 Fichamentos-
-Esse repositório reúne trechos de livros lidos em meus estudos. 
+Esse repositório reúne trechos de livros lidos em meus estudos. Com o intuito de registrar e consultar posteriormente. 
 Também falo sobre o livro, pontos que achei interessante, que gostei etc. 
 
 📌Observações: Os fichamentos podem conter minha interpretação pessoal dos livros.
