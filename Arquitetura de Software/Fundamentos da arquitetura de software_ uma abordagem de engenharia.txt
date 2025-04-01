@@ -47,16 +47,20 @@ Ter conhecimento sobre o domínio do negócio
 Ter habilidades interpessoais
 Entender e lidar bem com questões políticas
 
+
+
 Tomar Decisões de Arquitetura
 -  Um arquiteto deve estabelecer as decisões da arquitetura e os princípios do design usados para orientar as decisões de tecnologia dentro da equipe, do departamento ou em toda a empresa.
--
+
+- O segredo para tomar decisões arquiteturais eficientes é perguntar se a decisão da arquitetura está ajudando a orientar as equipes ao fazerem a escolha técnica certa ou se a decisão faz a escolha técnica por elas. 
+
 -
 -
 
 
 
 Comentários: 
-Esse foi um ótimo livro para começar a leitura sobre o tema de arquitetura de software. Foi o livro recomendado pelo professor da disciplina. A escrita é fácil de entender, não usa termos complicados, a leitura é bem fluída e com várias ilustrações que ajudam no entendimento. Esse é um livro que explica bem e de forma didática. Foi ótimo começar com esse e depois seguir para o livro "Arquitetura Limpa" 
+Esse foi um ótimo livro para começar a leitura sobre o tema de arquitetura de software. Foi o livro recomendado pelo professor da disciplina. A escrita é fácil de entender, não usa termos complicados, a leitura é bem fluída e com várias ilustrações que ajudam no entendimento. Esse é um livro que explica bem e de forma didática. Foi ótimo começar com esse e depois seguir para o livro "Arquitetura Limpa". 
 
 
 
