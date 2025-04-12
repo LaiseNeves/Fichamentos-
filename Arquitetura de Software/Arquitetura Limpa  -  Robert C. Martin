@@ -1,0 +1,56 @@
+###﻿Fichamento
+
+**Identificação da Obra**
+Livro - Arquitetura Limpa
+Autor(a): Robert C. Martin
+Ano Leitura: 2025
+Descrição: 
+	
+
+	
+- O apelo óbvio da arquitetura é a estrutura, que domina os paradigmas e discussões sobre o desenvolvimento de software — componentes, classes, funções, módulos, 
+camadas e serviços, micro ou macro. [...] O apelo óbvio da arquitetura é a estrutura, que domina os paradigmas e discussões sobre o desenvolvimento de software — componentes, 
+classes, funções, módulos, camadas e serviços, micro ou macro.  (Página xvii)
+
+- Grandes construções de software são compostas de componentes de software menores, que, por sua vez, são formados por componentes ainda menores de software, e assim por diante. 
+É um código dentro do outro, do início ao fim. (Página xviii)
+
+- Na arquitetura de software, por natureza, o software é recursivo, fractal e esboçado e desenvolvido em código. Os detalhes são essenciais. (Página xviii)
+
+- O software tem estrutura — muitas estruturas e muitos tipos delas [...]  a arquitetura de software não se parece com nada. (Página xviii)
+
+- Uma visualização específica é uma escolha, não uma determinação. É uma escolha baseada em um conjunto maior de escolhas: o que incluir; o que excluir; o que enfatizar utilizando 
+forma ou cor; o que retirar do destaque por meio da uniformização ou omissão. Não há nada natural ou intrínseco que diferencie uma visão da outra. (Página xviii)
+
+- Talvez não seja muito útil falar sobre física e escala física em arquitetura de software, mas certas restrições físicas merecem a nossa consideração e atenção. A velocidade do 
+processador e a largura de banda da rede podem fornecer um veredito duro sobre a performance de um sistema. A memória e o armazenamento podem limitar as ambições de qualquer base 
+de código. O software pode ser feito do mesmo material que os sonhos, mas funciona no mundo físico. (Página xviii) 
+
+- Nisto é que consiste a monstruosidade no amor, senhora, em ser infinita a vontade e restrita a execução; em serem limitados os desejos e o ato escravo do limite.
+  William Shakespeare (Página xviii) 
+  P.s: Adorei ver a citacao de William Shakespeare pois foi uma relacao que o autor fez com o Teatro, junto com as Artes Visuais, minhas primeiras áreas de conhecimento
+
+- A arquitetura representa as decisões significativas de design que moldam um sistema, onde a significância é medida pelo custo da mudança.
+  Grady Booch (Página xix)
+
+- A arquitetura é o conjunto de decisões que você queria ter tomado logo no início de um projeto, mas, como todo mundo, não teve a imaginação necessária.
+  Ralph Johnson (Página xix) 
+
+- 
+
+
+
+
+
+
+
+
+
+Comentários: Esse é um livro que muitos amigos e professores indicam. Vale muito a pena a leitura. Durante a leitura, é perceptível que Robert C. Martin 
+possuí muita experiencia em desenvolvimento e consegue transmitir através da sua escrita seus conhecimentos. A leitura é fluída, objetiva, didática, 
+
+
+
+Referencia Bibliográfica: 
+MARTIN, Robert C. Arquitetura Limpa. Rio de Janeiro: Editora Alta Books, 2019. E-book. p.viii. ISBN 9788550808161. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788550808161/. 
+Acesso em: 12 abr. 2025.
